@@ -1,0 +1,12 @@
+ethical-bypass-extension/
+│
+├── manifest.json
+├── background.js
+├── popup.html
+├── popup.js
+├── ai_model.js
+├── icons/
+│   ├── icon16.png
+│   ├── icon48.png
+│   └── icon128.png
+└── README.md
